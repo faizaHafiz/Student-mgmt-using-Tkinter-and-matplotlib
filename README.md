@@ -8,4 +8,4 @@ Features of this project:
 3. Performing web scraping and extracting a quote from an image using beautifulSoup(bs4)
 4. Performing socket programming and getting temperature and city info
 
-Please reach out if you have any issues running the program.
+Please reach out if you have any issues running the program. You can refer to the outputs I have attached
